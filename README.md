@@ -1,0 +1,2 @@
+# IntentFlagAndLanchMode
+Activity生命周期在四种启动模式下的运行流程
